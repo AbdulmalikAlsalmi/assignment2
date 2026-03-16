@@ -1,0 +1,8 @@
+streamlit
+streamlit_option_menu
+os
+ABC
+abstractmethod
+PIL
+pandas
+matplotlib.pyplot

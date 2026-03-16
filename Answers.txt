@@ -1,0 +1,17 @@
+Name	Q1	Q2	Q3	Q4	Score	Percentage
+Abdul Malik	B	C	B	D	3	75.0
+Irfan	B	C	D	C	3	75.0
+Nina	A	A	A	C	1	25.0
+Emo	D	C	D	C	2	50.0
+Abdulla	A	D	A	C	1	25.0
+Salim	A	A	A	A	0	0.0
+Chu	A	A	A	A	0	0.0
+KK	A	A	A	A	0	0.0
+xyz	A	A	A	A	0	0.0
+abc	A	A	A	A	0	0.0
+test	C	C	A	A	1	25.0
+SF	B	C	D	C	3	75.0
+Salim	B	C	B	C	4	100.0
+Khalid	B	C	B	C	4	100.00
+Abdul Malik	B	C	B	C	4	100.00
+Ahmed	B	C	B	C	4	100.00

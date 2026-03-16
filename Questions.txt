@@ -1,0 +1,4 @@
+1:B:Which Malaysian dish is widely considered the national dish of Malaysia, made with rice cooked in coconut milk?:A. Laksa:B. Nasi Lemak:C. Mee Goreng:D. Satay:Type A
+2:C:Which culture originally influenced the Malaysian food shown in the picture?:A. Chinese:B. Thai:C. Indian:D. Indonesian:Type B
+3:B:Which Malaysian noodle dish is believed to have Peranakan (Chinese–Malay) origins, especially associated with Penang?:A. Char Kway Teow:B. Laksa:C. Rendang:D. Nasi Kerabu:Type A
+4:C:Satay, a popular grilled meat skewer dish in Malaysia, is strongly influenced by which country's cuisine?:A. Japan:B. Philippines:C. Indonesia:D. Vietnam:Type B
