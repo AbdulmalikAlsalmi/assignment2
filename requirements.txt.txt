@@ -1,8 +1,5 @@
 streamlit
-streamlit_option_menu
-os
-ABC
-abstractmethod
-PIL
+streamlit-option-menu
+pillow
 pandas
-matplotlib.pyplot
+matplotlib
